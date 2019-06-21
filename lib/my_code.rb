@@ -34,5 +34,6 @@ end
 def reduce_to_all_true(source_array)
   if source_array == TRUE
     source_array.reduce
+  end
 end
   
